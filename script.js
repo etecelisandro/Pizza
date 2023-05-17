@@ -1,7 +1,7 @@
 function sim() {
-    alert("VOCÊ ACEITOU PAGAR A FEIJOADA CARAAAA:) ÁS 14H VIU");
+    alert("VOCÊ ACEITOU PAGAR A FEIJOADA CARAAAA:) ÁS 20H30 VIU");
     // redireciona para um URL apos aceitar
-    location.href="https://www.google.com/maps/place/Padaria+Bandeirantes+2/@-23.7105245,-46.6983725,17z/data=!4m10!1m2!2m1!1spadaria+bandeirantes!3m6!1s0x94ce4fbb61d7b3a9:0x4675a07cef377458!8m2!3d-23.71052!4d-46.6947727!15sChRwYWRhcmlhIGJhbmRlaXJhbnRlc1oWIhRwYWRhcmlhIGJhbmRlaXJhbnRlc5IBBmJha2VyeeABAA!16s%2Fg%2F11bx43dlz8?hl=pt-BR";
+    location.href="https://www.google.com/maps/place/Nova+Sat%C3%A9lite+Esfiharia+e+Pizzaria/@-23.703444,-46.6893455,20.33z/data=!4m9!1m2!2m1!1spadaria+satelite!3m5!1s0x94ce4feec187e35b:0x346ee403c2a56314!8m2!3d-23.7032401!4d-46.6888661!16s%2Fg%2F11t72t143r";
 }
 
 function desvia(t) {
